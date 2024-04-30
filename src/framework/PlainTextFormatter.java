@@ -41,14 +41,6 @@ public class PlainTextFormatter implements SalesFormatter {
 	}
 
 	/**
-	 * The constructor is declared private so other classes cannot create an
-	 * instance of this class.
-	 */
-	private PlainTextFormatter() {
-
-	}
-
-	/**
 	 * Obtains a plain text representation of the specified borrower database.
 	 *
 	 * @param borrowerDB the borrower database.
